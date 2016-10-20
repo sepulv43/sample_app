@@ -1,2 +1,2 @@
 # sample_app
-https://cbs-ipp-group17.herokuapp.com/
+https://cbs-ipp-g19.herokuapp.com/
